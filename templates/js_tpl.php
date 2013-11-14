@@ -15,7 +15,6 @@
 					</span>
 				</p>
 				<span class="bookmark_desc"><&= escapeHTML(description)&> </span>
-				<span class="bookmark_date"><&= formatDate(added_date) &></span>
 			</div>
 </script>
 
